@@ -1,0 +1,4 @@
+name: flutter_book_app
+dependencies:
+  flutter:
+    sdk: flutter
